@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5de8ae3-c80c-44a3-afad-b2b995458573" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h68LUr0NvUUOnkb0ukELmk9VaF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.23419689" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ReentrantLockExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5de8ae3-c80c-44a3-afad-b2b995458573" name="Default Changelist" comment="" />
+      <created>1599320125772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599320125772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="1294" width="800" height="677" key="#Project_Structure" timestamp="1599322941572">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="588" y="1294" width="800" height="677" key="#Project_Structure/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599322941572" />
+    <state x="771" y="1390" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599329249251">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="771" y="1390" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329249251" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1599329254069">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329254069" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1599329254069">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329254069" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1599329254069">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329254069" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1599329254069">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329254069" />
+    <state x="482" y="1267" key="SettingsEditor" timestamp="1599322324842">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="482" y="1267" key="SettingsEditor/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599322324842" />
+    <state x="302" y="1323" width="1372" height="618" key="new project wizard" timestamp="1599329251675">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="302" y="1323" width="1372" height="618" key="new project wizard/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329251675" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>183</line>
+          <properties class="Main.PricesContainer" method="getLockObject">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

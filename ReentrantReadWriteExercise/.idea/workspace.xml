@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5f6b1d6-b2dd-40b0-b1b3-73f3ed5beb8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h6QqLhA6uLIZZL7pmHN9EX0xPB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../all_code_examples/critical-sections-and-synchronization-example" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f6b1d6-b2dd-40b0-b1b3-73f3ed5beb8d" name="Default Changelist" comment="" />
+      <created>1599329251828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599329251828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="1294" width="800" height="677" key="#Project_Structure" timestamp="1599329268430">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="588" y="1294" width="800" height="677" key="#Project_Structure/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599329268430" />
+    <state x="776" y="1390" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599337832479">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="776" y="1390" width="424" height="484" key="FileChooserDialogImpl/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599337832479" />
+    <state x="302" y="1234" width="1372" height="796" key="new project wizard" timestamp="1599337834524">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="302" y="1234" width="1372" height="796" key="new project wizard/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599337834524" />
+  </component>
+</project>

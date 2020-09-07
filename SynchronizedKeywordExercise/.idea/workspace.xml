@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f28089-5335-46de-a15b-d5bf35f4b694" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h6iEySPuhLFo2Zhnnr84DKOlxM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SynchronizedKeywordExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f28089-5335-46de-a15b-d5bf35f4b694" name="Default Changelist" comment="" />
+      <created>1599337834574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599337834574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="295" width="424" height="513" key="FileChooserDialogImpl" timestamp="1599396875387">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="295" width="424" height="513" key="FileChooserDialogImpl/0.1080.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1599396875387" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1599338060874">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599338060874" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1599338060874">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599338060874" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1599338060874">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599338060874" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1599338060874">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1599338060874" />
+    <state x="302" y="154" width="1372" height="796" key="new project wizard" timestamp="1599396876790">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="302" y="154" width="1372" height="796" key="new project wizard/0.1080.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1599396876790" />
+  </component>
+</project>
